@@ -1,0 +1,50 @@
+.jw-buffer{
+  color:rgba(255, 255, 255, 0.3) !important;
+  background-color:rgba(255, 255, 255, 0.3) !important
+}
+.jw-progress
+{
+  color: #EA5537 !important;
+  background-color:#EA5537 !important
+}
+.jw-knob {
+  color: #EA5537 !important;
+
+}
+/* .jw-slider-container {
+  height: 0.25rem !important;
+} */
+
+.jw-logo-button {
+  display: none !important;
+}
+.jw-open {
+color: white !important;
+}
+
+.jw-off:hover {
+  color: white !important;
+}
+.jw-button-color:hover {
+  color: white !important;
+}
+.jw-icon-cast{
+  color: white !important;
+}
+
+.jw-button-color.jw-toggle {
+  color: white !important;
+}
+.jw-button-color.jw-toggle:not(.jw-icon-cast) {
+  color: white !important;
+}
+.jw-button-color.jw-toggle.jw-off:hover:not(.jw-icon-cast) {
+  color: white !important;
+}
+.jw-button-color:focus:not(.jw-icon-cast) {
+  color: white !important;
+}
+
+
+
+

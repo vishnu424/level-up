@@ -1,0 +1,12 @@
+#accordionExample .accordion-button:not(.collapsed) {
+  color: #8abbf8;
+  background-color: rgb(138 187 248 / 20%);
+  font-weight: bolder !important;
+}
+#accordionExample .accordion-button:focus {
+  border-color: #8abbf8;
+  box-shadow: 0 0 0 0.25rem rgb(121 207 219 / 35%);
+}
+#accordionExample .accordion-button.collapsed {
+  text-align: left;
+}
